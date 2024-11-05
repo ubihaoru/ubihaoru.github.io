@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubihaoru.github.io/CDY/sitemap_index.txt
+Sitemap: https://ubihaoru.github.io/Lyh/sitemap_index.txt
+Sitemap: https://ubihaoru.github.io/cER/sitemap_index.txt
+Sitemap: https://ubihaoru.github.io/wue/sitemap_index.txt
